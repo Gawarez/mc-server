@@ -4,4 +4,4 @@ data/logs
 data/usercache.json
 data/whitelist.json
 data/ops.json
-vscode/
+.vscode/
