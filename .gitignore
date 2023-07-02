@@ -5,4 +5,4 @@ data/usercache.json
 data/whitelist.json
 data/ops.json
 .vscode/
-.mc-server*
+mc-server*
