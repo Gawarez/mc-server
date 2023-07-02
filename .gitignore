@@ -1,7 +1,7 @@
-.data/world*
-.data/cache
-.data/logs
-.data/usercache.json
-.data/whitelist.json
-.data/ops.json
-.vscode/
+data/world*
+data/cache
+data/logs
+data/usercache.json
+data/whitelist.json
+data/ops.json
+vscode/
