@@ -6,3 +6,4 @@ data/whitelist.json
 data/ops.json
 .vscode/
 mc-server*
+serverIP.txt
